@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\c++ 2 семак\lab44\lab44\main.cpp(97,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab44.vcxproj -> C:\Users\Acer\Desktop\c++ 2 семак\lab44\Debug\lab44.exe

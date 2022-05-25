@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\c++ 2 семак\lab7\lab7\main.cpp(132,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\Desktop\c++ 2 семак\lab7\lab7\main.cpp(128): warning C4715: Matrix::DET: значение возвращается не при всех путях выполнения
+C:\Users\Acer\Desktop\c++ 2 семак\lab7\lab7\main.cpp(167): warning C4715: Matrix::reverse: значение возвращается не при всех путях выполнения
+  lab7.vcxproj -> C:\Users\Acer\Desktop\c++ 2 семак\lab7\Debug\lab7.exe

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Acer\Desktop\c++ 2 семак\lab1\lab1\Main.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\c++ 2 семак\lab1\lab1\Main.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\c++ 2 семак\lab1\lab1\Main.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab1.vcxproj -> C:\Users\Acer\Desktop\c++ 2 семак\lab1\Debug\lab1.exe
